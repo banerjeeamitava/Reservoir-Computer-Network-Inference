@@ -1,5 +1,5 @@
 This is the code to generate results published in the paper "Using machine learning to assess short term causal dependence and infer network links",
-Chaos 29, 121104 (2019), by Amitava Banerjee,  Jaideep Pathak,  Rajarshi Roy,  Juan G. Restrepo, and Edward Ott, Chaos: An Interdisciplinary Journal of Nonlinear Science 29 (12), 121104 (2019).
+Chaos 29, 121104 (2019), by Amitava Banerjee,  Jaideep Pathak,  Rajarshi Roy,  Juan G. Restrepo, and Edward Ott, Chaos: An Interdisciplinary Journal of Nonlinear Science 29 (12), 121104 (2019), https://aip.scitation.org/doi/abs/10.1063/1.5134845
 
 Contact Amitava Banerjee at amitava8196@gmail.com or amitavab@umd.edu for questions or comments.
 
